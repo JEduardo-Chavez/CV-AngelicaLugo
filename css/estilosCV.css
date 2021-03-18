@@ -1,0 +1,57 @@
+/*Hoja de estilos personal*/
+
+.navbarcolor{
+    background-color: #A65B5B;
+}
+
+.fondo{
+    background-color: #F2F2F2;
+}
+
+/*Hover de los botones*/
+.social-icons .botoninsta:hover{
+    background-color: #D936A0; 
+  }
+
+.social-icons .botonmail:hover{
+    background-color: #524ABD;
+  }
+
+.social-icons .botonface:hover{
+    background-color: #2372D9;
+  }
+  
+.social-icons .botongit:hover{
+    background-color: #56297C;
+  }
+
+.social-icons .botonwhat:hover{
+    background-color: #10E376;
+  }
+
+.googlefont{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 6rem;
+  color:  #403440;
+}
+
+.subfont{
+  font-family: 'Bebas Neue', cursive;
+}
+
+.importantetext{
+  color: #A65B5B;
+}
+
+.subtema{
+  color: #403440;
+}
+
+.contenido{
+  color: #403440;
+  text-align: justify;
+}
+
+.pie{
+    background-color: #A65B5B;
+}
